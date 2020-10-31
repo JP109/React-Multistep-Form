@@ -1,0 +1,23 @@
+.form-group {
+  text-align: center;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-group select {
+  border: 10px yellow;
+  margin: 10px 0;
+  padding: 10px;
+  border: 2px solid #eee;
+  border-radius: 10px;
+  width: 40%;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.form-group label:hover {
+  background-color: #ccc;
+}
+/*# sourceMappingURL=MainStepComponent.css.map */
